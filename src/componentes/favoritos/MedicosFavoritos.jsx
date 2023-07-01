@@ -27,7 +27,7 @@ export default function ListarMedicosFavoritos() {
         </h1>
       ) : (
         <h1 className='sin-favoritos'>
-          Tus médicos favoritos{' '}
+          Tus médicos favoritos
         </h1>
       )}
 

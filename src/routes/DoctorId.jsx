@@ -38,9 +38,6 @@ export default function DoctorId() {
           </article>
         </>
       )}
-      <button onClick={volverALosMedicos}>
-       Volver al Home
-      </button>
     </section>
   )
 }
